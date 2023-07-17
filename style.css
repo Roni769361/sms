@@ -70,6 +70,7 @@ body {
 
 .button a:hover {
   background-color: rgba(0, 123, 255, 1);
+  color: rgb(252, 248, 1);
 }
 /* ------ */
 .image-hover {
